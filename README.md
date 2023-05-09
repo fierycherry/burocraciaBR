@@ -5,7 +5,7 @@ Os dados e os códigos apresentados neste repositório se referem à pesquisa so
 
 A base de dados contém características de ocupantes de cargos no governo federal entre 2011 e 2021 nas seguintes pastas: Agricultura, Cultura, e Ciência e Tecnologia.
 
-Os códigos em python foram utilizados para encontrar informações públicas sobre burocratas disponibilizadas no Diário Oficial da União. 
+Os códigos em Python (desenvolvidos por Raquel de Faria Oliveira) foram utilizados para encontrar informações públicas sobre burocratas disponibilizadas no Diário Oficial da União. 
 
 Os arquivos em .ris e .bib referem-se à revisão de literatura (dados bibliográficos).
 
